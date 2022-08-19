@@ -20,4 +20,5 @@ public class tren implements IVehiculo, Iimpuesto{
     public double CalculaImpuesto(int modelo) {
         return 0;
     }
+
 }

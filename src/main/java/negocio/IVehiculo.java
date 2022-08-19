@@ -7,4 +7,5 @@ public interface IVehiculo {
     String detenerse(int velocidad);
 
 
+
 }

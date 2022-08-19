@@ -6,4 +6,5 @@ public class carro extends vehiculo {
     public void Acelerar(){
         System.out.println("el carro acelera");
     }
+
 }

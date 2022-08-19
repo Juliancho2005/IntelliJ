@@ -11,4 +11,5 @@ public class moto extends vehiculo {
     public void Acelerar(){
         System.out.println("la moto acelera");
     }
+
 }
